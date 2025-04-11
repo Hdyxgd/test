@@ -7,3 +7,4 @@ async function handleRequest(request) {
     headers: { 'Content-Type': 'text/plain; charset=utf-8' },
   });
 }
+ 
